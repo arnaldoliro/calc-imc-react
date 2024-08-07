@@ -1,0 +1,20 @@
+
+.title {
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    padding-bottom: 20px;
+}
+
+ul {
+    border-bottom: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+}
+
+ul li {
+    margin-bottom: 10px;
+    list-style: none;
+}
